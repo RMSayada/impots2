@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 May 2019 19:44:30 at https://cfspart.impots.gouv.fr/LoginAccess?op=c&url=aHR0cHM6Ly9jZnNwYXJ0LmltcG90cy5nb3V2LmZyL21vbnByb2ZpbC13ZWJhcHAvbW9uQ29tcHRl +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://cfspart.impots.gouv.fr/LoginAccess?op=c&url=aHR0cHM6Ly9jZnNwYXJ0LmltcG90cy5nb3V2LmZyL21vbnByb2ZpbC13ZWJhcHAvbW9uQ29tcHRl -O1 "C:\Users\Rayan\Desktop\impots\impots" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:44:31	Warning: 	Found for https://cfspart.impots.gouv.fr/robots.txt
+19:44:31	Warning: 	File has moved from https://cfspart.impots.gouv.fr/robots.txt to https://cfspart.impots.gouv.fr/LoginAccess?op=c&url=aHR0cHM6Ly9jZnNwYXJ0LmltcG90cy5nb3V2LmZyL3JvYm90cy50eHQ=
+19:44:43	Warning: 	Found for https://cfspart.impots.gouv.fr/
+19:44:43	Warning: 	File has moved from https://cfspart.impots.gouv.fr/ to https://cfspart.impots.gouv.fr/LoginAccess?op=c&url=aHR0cHM6Ly9jZnNwYXJ0LmltcG90cy5nb3V2LmZyLw==
+19:44:44	Error: 	"Not Found" (404) at link https://cfspart.impots.gouv.fr/templates/images/Small_ico_windows.png (from https://cfspart.impots.gouv.fr/LoginAccess?op=c&url=aHR0cHM6Ly9jZnNwYXJ0LmltcG90cy5nb3V2LmZyL21vbnByb2ZpbC13ZWJhcHAvbW9uQ29tcHRl)
+19:44:44	Error: 	"Not Found" (404) at link https://cfspart.impots.gouv.fr/templates/polices/bootstrap/glyphicons-halflings-regular.woff (from https://cfspart.impots.gouv.fr/templates/styles/commun.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 41 links scanned, 37 files written (914807 bytes overall) [397937 bytes received at 28424 bytes/sec], 732415 bytes transferred using HTTP compression in 23 files, ratio 24%, 2.1 requests per connection
+(2 errors, 4 warnings, 0 messages)

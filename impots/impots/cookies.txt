@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cfspart.impots.gouv.fr	TRUE	/	FALSE	1999999999	lemondgfipprodpart	_test_client
+
